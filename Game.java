@@ -21,6 +21,7 @@
  *  This main class creates and initializes all the others: it creates all
  *  rooms, creates the parser and starts the game.  It also evaluates the
  *  commands that the parser returns.
+ *  Edited by Mrs. Feeney
  */
 
 class Game 
